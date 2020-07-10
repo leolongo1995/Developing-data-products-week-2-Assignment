@@ -40,3 +40,4 @@ addAwesomeMarkers(lat = 37.8450, lng = 15.2975,
             options = popupOptions(closeButton = FALSE)
   )
 ```
+map
